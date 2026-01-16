@@ -1,4 +1,5 @@
 # e-Commerce-Target-Sales-Project
+
 -------------------
 Performed exploratory data analysis on e-Commerce (Target) Sales data using SQL and Python to improve the customer experience.
 -------------------
